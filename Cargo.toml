@@ -2,6 +2,8 @@
 name = "merkle-root"
 version = "1.0.0"
 edition = "2021"
+description = "Library for calculating the Merkle root of either a file, or walked directory."
+license = "BSD-2-Clause AND MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
